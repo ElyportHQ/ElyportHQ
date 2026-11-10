@@ -9,6 +9,12 @@
   all in one place on Elysium, the Hyperliquid L2.
 </p>
 
+<p align="center">
+  <a href="https://elyport.com"><b>elyport.com</b></a> ·
+  <a href="https://x.com/ElyportHQ">X</a> ·
+  <a href="https://github.com/ElyportHQ/Elyport">Code</a>
+</p>
+
 ---
 
 ### What Elyport does
@@ -29,7 +35,9 @@
 
 ### Links
 
-Website and X are coming soon.
+- App: [elyport.com](https://elyport.com)
+- X: [@ElyportHQ](https://x.com/ElyportHQ)
+- Code and contracts: [ElyportHQ/Elyport](https://github.com/ElyportHQ/Elyport)
 
 ---
 
