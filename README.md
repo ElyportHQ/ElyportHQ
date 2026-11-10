@@ -15,7 +15,7 @@
 
 | Tool | For | What it does |
 | --- | --- | --- |
-| **Refuel** | Users | Get HYPE for gas on Elysium, paid from Ethereum, Base, Arbitrum, BNB Chain, Solana or HyperEVM |
+| **Refuel** | Users | Get HYPE for gas on Elysium, paid from Ethereum, Base, Arbitrum, Robinhood Chain, BNB Chain, Solana or HyperEVM |
 | **Gas Drop** | Builders | Send HYPE or any token to thousands of wallets from one list or CSV |
 | **Locker** | Builders | Lock LP and tokens until a set date, each with a public, verifiable page |
 | **Vesting** | Builders | Release team and investor tokens on a schedule with a cliff, claim by claim |
